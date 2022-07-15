@@ -25,3 +25,10 @@ function clr(){
     document.getElementById("textarea").value ='';
 
 }
+// function removechar(){
+//     let value =document.getElementById("texrarea").value;
+   
+//    let newstr= value.replace('value.charAt(value.length-1)','');
+//    document.getElementById("textarea").value =newstr;
+
+// }
